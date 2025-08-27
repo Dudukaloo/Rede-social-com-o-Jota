@@ -1,0 +1,19 @@
+#titulo img{
+    border-radius: 50%;
+    width: 125px;
+    height: 125px;
+    position: absolute;
+    top: 100px;
+    left: 10px;
+}
+
+#titulo h2{
+    left: 140px;
+    top: 50px;
+    position: relative;
+}
+
+#titulo h4{
+    top: 85px;
+    position: relative;
+}
